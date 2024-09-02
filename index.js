@@ -1,11 +1,11 @@
 //----roll dice 1
 let roll1 = Math.ceil(Math.random()*6);
-let imageScource1 = "/images/dice" + roll1 + ".png";
+let imageScource1 = "images/dice" + roll1 + ".png";
 document.querySelectorAll("img")[0].setAttribute("src",imageScource1);
 
 //-----roll dice 2
 let roll2 = Math.ceil(Math.random()*6);
-let imageScource2 = "/images/dice" + roll2 + ".png";
+let imageScource2 = "images/dice" + roll2 + ".png";
 document.querySelectorAll("img")[1].setAttribute("src",imageScource2);
 
 
