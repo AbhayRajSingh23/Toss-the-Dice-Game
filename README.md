@@ -8,4 +8,4 @@ Random Dice Roll: Generates a random number between 1 and 6 to simulate a dice r
 User-Friendly Interface: A minimalistic design with a single button to start the game.
 Lightweight and Fast: Uses plain HTML, CSS, and JavaScript for a quick and responsive experience.
 
-# You Can acces the file form LINK : https://github.com/AbhayRajSingh23/Toss-the-Dice-Game.git
+# You Can acces the file form LINK : ( https://abhayrajsingh23.github.io/Toss-the-Dice-Game/ )
